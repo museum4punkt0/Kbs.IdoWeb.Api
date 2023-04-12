@@ -5,7 +5,8 @@ Kbs.IdoWeb.Api is an .net core Application that offers a generic API to deliver 
 
 
 ### 2. Förderhinweis
-Diese C# Xamarin Applikation ist Teil des Projektes museum4punkt0 - Digitale Strategien für das Museum der Zukunft, Teilprojekt „BODENTIER hoch 4“. Das Projekt museum4punkt0 wird gefördert durch die  Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages.  
+
+Das Projekt museum4punkt0 wird gefördert durch die  Beauftragte der Bundesregierung für Kultur und Medien aufgrund eines Beschlusses des Deutschen Bundestages.  
 Weitere Informationen: [www.museum4punkt0.de](https://www.museum4punkt0.de/)
 
 ![BKM-Logo](https://github.com/museum4punkt0/Object-by-Object/blob/77bba25aa5a7f9948d4fd6f0b59f5bfb56ae89e2/04%20Logos/BKM_Fz_2017_Web_de.gif)
